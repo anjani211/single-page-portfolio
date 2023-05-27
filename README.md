@@ -2,14 +2,20 @@
 
 
 **Anjani - Portfolio**
+
 Anjani - Portfolio is a single-page website that serves as Anjani's digital portfolio. It showcases her work, skills, and experiences. The portfolio provides a clean and modern design, along with responsive layout for various screen sizes.
 
 **Table of Contents**
+
 Usage
+
 Contributing
+
 License
 
+
 **Usage**
+
 Once you have cloned the repository and opened the index.html file, you will see Anjani - Portfolio rendered in your web browser. The portfolio consists of the following sections:
 
 Header: The header section contains the navigation menu at the top of the page. Anjani's logo is displayed on the left side, and the navigation links for different sections are displayed on the right side.
