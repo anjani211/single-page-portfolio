@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(0, 0, 14);
+    font-family: 'Poppins', sans-serif;
+    color: white;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    /* to bring everything in center */
+    align-items: center;
+    /* navbar ki height maintain karne k lie */
+    height: 80px;
+    background-color: rgb(1, 1, 26);
+
+}
+
+nav ul {
+    display: flex;
+    justify-self: center;
+    /* navigation bar ko horizontal karne k lie */
+}
+
+nav ul li {
+    /* bullets hatane k lie */
+    list-style: none;
+    /* elements k beech me space k lie */
+    margin: 0 23px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover {
+    color: rgb(211, 120, 120);
+    font-size: 1.04rem;
+}
+
+.left {
+    font-size: 2rem;
+}
+
+.first {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 40px 0;
+    margin-left: 03%;
+}
+
+.first>div {
+    width: 60%;
+}
+
+.leftSection {
+    font-size: 3rem;
+    margin: 70px 0;
+}
+
+
+
+.rightSection {}
+
+.rightSection img {
+    /* image ko thik size ka karne k lie */
+    width: 70%;
+    border-radius: 50%;
+}
+
+.purple {
+    color: rgb(147, 61, 227);
+}
+
+#element {
+    color: rgb(147, 61, 227);
+}
+
+.secondSection {
+    margin: auto;
+    max-width: 90vw;
+    height: 80vh;
+}
+
+.secondSection h1 {
+    font-size: 2.2rem;
+}
+
+.text-gray {
+    color: gray;
+}
+
+.secondSection .box1 {
+    /* horiznotal line kheenchne k lie */
+    width: 80vw;
+    background: white;
+    margin: 56px 0;
+    height: 2px;
+    display: flex;
+}
+
+.vertical {
+    /* vertical line kheechne k lie */
+    height: 93px;
+    width: 1px;
+    background-color: white;
+    /* saari lines ko door karne ke lie */
+    margin: 0 100px;
+}
