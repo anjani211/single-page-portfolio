@@ -1,4 +1,6 @@
 <img width="949" alt="image" src="https://github.com/anjani211/single-page-portfolio/assets/79541509/bfe5cb89-2e49-4856-bef9-0d295b14736b">
+
+
 **Anjani - Portfolio**
 Anjani - Portfolio is a single-page website that serves as Anjani's digital portfolio. It showcases her work, skills, and experiences. The portfolio provides a clean and modern design, along with responsive layout for various screen sizes.
 
